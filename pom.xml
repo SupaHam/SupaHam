@@ -9,13 +9,14 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <mainClass>com.supaham.tenjava.TenJava</mainClass>
+        <bukkit.version>1.7.2-R0.1-SNAPSHOT</bukkit.version>
     </properties>
 
     <dependencies>
         <dependency>
             <groupId>org.bukkit</groupId>
             <artifactId>bukkit</artifactId>
-            <version>LATEST</version>
+            <version>${bukkit.version}</version>
             <type>jar</type>
             <scope>compile</scope>
         </dependency>
