@@ -2,13 +2,13 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.supaham</groupId>
-    <artifactId>tenjava</artifactId>
+    <artifactId>supaarows</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <name>TenJava</name>
+    <name>SupaArrows</name>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <mainClass>com.supaham.tenjava.TenJava</mainClass>
+        <mainClass>com.supaham.supaarrows.SupaArrows</mainClass>
         <bukkit.version>1.7.2-R0.1-SNAPSHOT</bukkit.version>
     </properties>
 
@@ -30,7 +30,7 @@
     </repositories>
 
     <build>
-        <finalName>TenJava</finalName>
+        <finalName>SupaArrows</finalName>
         <sourceDirectory>${basedir}/src/main/java</sourceDirectory>
         <resources>
             <resource>
@@ -38,7 +38,8 @@
                 <filtering>true</filtering>
                 <directory>${basedir}/src/main/resources/</directory>
                 <includes>
-                    <include>*.yml</include>
+                    <include>plugin.yml</include>
+                    <include>config.yml</include>
                 </includes>
             </resource>
         </resources>

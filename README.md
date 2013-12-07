@@ -1,5 +1,8 @@
-SupaHam
+SupaArrows
 =======
+
+SupaArrows by SupaHam.
+
 You can find me streaming the second part of the Ten.Java contest at 
 16:00 UTC at: http://www.twitch.tv/supaaham
 
