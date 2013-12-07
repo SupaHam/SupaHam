@@ -11,5 +11,5 @@ You can find me streaming the second part of the Ten.Java contest at
 Links
 -----
 
-* [Bukkit Thread](http://www.mckarmacraft.com)
+* [Bukkit Thread](http://forums.bukkit.org/threads/ten-java-plugin-contest-irc-esper-net-ten-java-points-4-644-http-tenjava-com-tenjava.190553/)
 * [Website](http://www.mckarmacraft.com)
