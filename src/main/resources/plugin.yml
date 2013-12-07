@@ -1,0 +1,5 @@
+name: ${project.build.finalName}
+main: ${mainClass}
+version: ${project.version}
+author: SupaHam
+description: TenJava plugin
