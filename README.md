@@ -21,6 +21,7 @@ Teleport Arrow: http://supa1581@supaham.com/ss/2013-12-08-02_02-01.png
 
 Commands this plugin adds are:
 Supaarrows, for more information type '/supaarrows help' in-game.
+Using CraftBukkit build #2943
 Links
 -----
 
