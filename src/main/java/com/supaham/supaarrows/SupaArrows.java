@@ -21,6 +21,7 @@ public class SupaArrows extends JavaPlugin implements Listener {
         getServer().getPluginManager().registerEvents(this, this);
         this.arrowManager = new ArrowManager(this);
         getServer().getPluginManager().registerEvents(new ArrowListener(this), this);
+        getCommand("supaarrows").setExecutor(new SupaCommand(this));
     }
 
     @Override
