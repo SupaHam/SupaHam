@@ -15,9 +15,9 @@ Each arrow has a certain power, read more from their description:
 
 There are four recipes introduced in this plugin:
 Defuse Arrow: http://supaham.com/ss/2013-12-08-02_03-13.png
-Explosive Arrow: http://supa1581@supaham.com/ss/2013-12-08-02_02-45.png
-Squid Arrow: http://supa1581@supaham.com/ss/2013-12-08-02_02-24.png
-Teleport Arrow: http://supa1581@supaham.com/ss/2013-12-08-02_02-01.png
+Explosive Arrow: http://upaham.com/ss/2013-12-08-02_02-45.png
+Squid Arrow: http://supaham.com/ss/2013-12-08-02_02-24.png
+Teleport Arrow: http://supaham.com/ss/2013-12-08-02_02-01.png
 
 Commands this plugin adds are:
 Supaarrows, for more information type '/supaarrows help' in-game.
