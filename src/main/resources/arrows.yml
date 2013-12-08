@@ -1,0 +1,15 @@
+arrows:
+  defusearrow:
+    enabled: true
+    display-name: '&dDefuse Arrow'
+    creeper-defuse: 15
+    tnt-defuse: 10
+  teleportarrow:
+    display-name: '&dTeleport Arrow'
+    enabled: true
+  explosivearrow:
+    display-name: '&cExplosive Arrow'
+    enabled: true
+  squidarrow:
+    display-name: '&9Squid Arrow'
+    enabled: true
