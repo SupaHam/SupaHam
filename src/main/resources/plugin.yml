@@ -2,7 +2,8 @@ name: ${project.build.finalName}
 main: ${mainClass}
 version: ${project.version}
 author: SupaHam
-description: TenJava plugincommands:
+description: TenJava plugin
+commands:
     supaarrows:
         description: SupaArrows main command
         aliases: [sa, supaa, sarrows]
